@@ -1,0 +1,79 @@
+ 
+.header{
+    background-image: url(../image/BannerImage.png);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+
+}
+.banner-greeting{
+    padding: 70px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 25px;
+    font-style: normal;
+    font-weight:700;
+}
+.offer{
+    
+  text-align: center;
+}
+.banner-titel{
+    font-size: 250px;
+
+     text-align: center;
+     color: #FFF;
+     text-align: center;
+     font-family: Merriweather;
+     font-size: 25px;
+     font-style: normal;
+     font-weight:700;
+}
+.offer .midimgage{
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    width: 300px;
+    margin-left: 300px;
+    padding: 0px;
+ 
+}
+.offer .midimgage .imgmid{
+    width: 200px;
+}
+.join{
+    color: #FFF;
+   
+  margin: 0;
+  height: 400px;
+  width: 100%;
+  background-image: url(../image/Vectorrr.png);
+  background-size: cover;
+}
+.join .wc .mp{
+    padding: 20px;
+    margin: 20px;
+}
+.place{
+    padding: 20px;
+    text-align: center;
+    height: 170px;
+    background-color: antiquewhite;
+    margin: 10px;
+    border-radius: 10px;
+}
+.place .btn-p{
+    color: #FFF;
+    background-color: #e03737;
+    border-radius: 7px;
+    border: 0px solid;
+    padding: 10px;
+}
+.best{
+    display: flex;
+}
+.best .imp{
+    width: 70px;
+}
+ 
+ 
